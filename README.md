@@ -14,6 +14,8 @@ Or if you prefer, reach out to my team
 
 [![Alaya_Badge](https://img.shields.io/website?down_color=green&down_message=n%C3%A3o%20sei&up_color=black&up_message=Alaya%20Game%20Studio&url=https://www.alayagamestudio.com)](https://www.alayagamestudio.com)
 
+  ![Snake animation](https://github.com/lucasxchagas/lucasxchagas/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
