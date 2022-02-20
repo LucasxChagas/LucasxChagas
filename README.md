@@ -3,7 +3,7 @@
 My name is Lucas X. C., I'm from Brazil and I like to develop games.
 
 
-As I have always been passionate about technology, today I am graduating in Information Systems at **CESMAC**. My professional experiences are in Marketing, Web Development and Game Development.
+I've been passionate about games since I can remember, more precisely since I was three years old, which was when I was introduced to this world. As a child, I was able to experience several games and consoles from other generations, and this was arousing my curiosity in technology, about how everything there drastically evolved from one generation to another. During my adolescence, I was introduced to programming logic with RPG Maker, and since then, I already knew that this was what I wanted for my life. Today, I do what I love! What is developing games... and you? What motivates you to do what you do? [:
 
 Reach me out
 
