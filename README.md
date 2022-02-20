@@ -9,6 +9,7 @@ Reach me out
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucasxchagas/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/lucasxchagas/)
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-black?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UCq8weW6ibUe0uu3woITmUPw)
 
  ![Snake animation](https://github.com/lucasxchagas/lucasxchagas/blob/output/github-contribution-grid-snake.svg)
 
